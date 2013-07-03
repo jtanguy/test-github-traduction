@@ -1,22 +1,24 @@
 ---
 layout: page
-title: Traduction
+title: Accueil
 ---
 
 Introduction traduction blablabla
 
 ## Quelques ressources utiles
 
+- [Le guide de Don Rico](https://sites.google.com/site/donricoframasoft/)
+- Etc.
+
 ## Avancement
 
-<table class="table">
-{% tablerow item in site.posts cols: 2 %}
-{% if tablerowloop.col_first %}
-    {{ item.title }}
-{% else %}
-    {{ item.statut }}
-{% endif %}
-{% endtablerow %}
+<table class="table table-bordered">
+{% assign sorted_pages = site.pages | sort:"name" %}
+{% for item in sorted_pages  %}
+{% if item.status %}
+<tr><td><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></td><td>{{ item.status }}</td></tr>
+{% endif %}
+{% endfor %}
 </table>
 
 

@@ -1,5 +1,6 @@
 ---
 title: Chapitre 4
+layout: page
 status: Non traduit
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac laoreet

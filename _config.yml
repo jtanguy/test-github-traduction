@@ -1,4 +1,4 @@
-source: pages
 title : Mon super livre
 author :
-      name : Julien Tanguy
+     name: Julien Tanguy
+baseurl: /test-github-traduction

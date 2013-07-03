@@ -1,12 +1,13 @@
 ---
 title: Chapitre 3
+layout: page
 status: En cours
 ---
-Florence avait l’esprit un peu mélangé entre ce Prélude qui ne lui apportait que
-des questions sans réponse et « son » David. Prélude avait réveillé brusquement
-un sentiment que Florence avait au plus profond d’elle. Désormais, elle voulait
-savoir. Connaître la vérité. Et seulement alors, cette boule de nerf coincée
-dans l’estomac pourrait s’en aller.
+Florence avait l'esprit un peu melange entre ce Prelude qui ne lui apportait que
+des questions sans reponse et "son" David. Prelude avait reveille brusquement
+un sentiment que Florence avait au plus profond d'elle. Desormais, elle voulait
+savoir. Connaitre la verite. Et seulement alors, cette boule de nerf coincee
+dans l'estomac pourrait s'en aller.
 
 Aenean semper viverra nisi, sed rhoncus justo euismod ut. In vel purus leo.
 Praesent eleifend mollis turpis. Integer at neque quam. Nunc ac risus pulvinar,
