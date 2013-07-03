@@ -1,6 +1,6 @@
 ---
-Titre: Chapitre 4
-Statut: Non traduit
+title: Chapitre 4
+status: Non traduit
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac laoreet
 mauris, sed lacinia purus. Phasellus blandit, massa vitae eleifend ullamcorper,

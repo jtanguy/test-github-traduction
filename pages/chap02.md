@@ -1,6 +1,6 @@
 ---
-Titre: Chapitre 1
-Statut: Relecture
+title: Chapitre 1
+status: Relecture
 ---
 Florence avait l’esprit un peu mélangé entre ce Prélude qui ne lui apportait que
 des questions sans réponse et « son » David. Prélude avait réveillé brusquement

@@ -1,6 +1,6 @@
 ---
-Titre: Chapitre 3
-Statut: En cours
+title: Chapitre 3
+status: En cours
 ---
 Florence avait l’esprit un peu mélangé entre ce Prélude qui ne lui apportait que
 des questions sans réponse et « son » David. Prélude avait réveillé brusquement
