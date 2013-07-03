@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Accueil
+status: En cours
 ---
 
 ## Introduction
