@@ -20,7 +20,7 @@ Plus de détails sur ce projet test [dans le README]({{site.baseurl}}/README.md)
 {% if item.status %}
 <tr>
     <td><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></td>
-    <td><span class="label label-{% case item.status %}{% when 'Publié' or 'Publie' %}success{% when 'Relecture' %}warning{% else %}important{% endcase %}">{{ item.status }}</span></td>
+    <td><span class="label label-{% case item.status %}{% when 'Publié' or 'Publie' %}success{% when 'Relecture' %}warning{% when 'En cours' %}info{% else %}important{% endcase %}">{{ item.status }}</span></td>
 </tr>
 {% endif %}
 {% endfor %}
