@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="page-header">
-    <h1>{{ page.title }} <small>Statut: {{ page.status }}</small></h1>
+    <h1>{{ page.title }} {% if page.status %}<small>Statut: {{ page.status }}</small>{% endif%}</h1>
 </div>
 
 <div class="row">
