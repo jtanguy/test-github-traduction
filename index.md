@@ -16,7 +16,10 @@ Introduction traduction blablabla
 {% assign sorted_pages = site.pages | sort:"name" %}
 {% for item in sorted_pages  %}
 {% if item.status %}
-<tr><td><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></td><td>{{ item.status }}</td></tr>
+<tr>
+    <td><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></td>
+    <td><span class="label label-{% case item.status | downcase %}{% when publié or publie %}success{% when relecture %}warning{% else %}important{% endcase %}">{{ item.status }}</span></td>
+</tr>
 {% endif %}
 {% endfor %}
 </table>

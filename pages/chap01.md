@@ -1,7 +1,7 @@
 ---
 title: Chapitre 1
 layout: page
-status: Publie
+status: Publié
 ---
 Florence avait l'esprit un peu melange entre ce Prelude qui ne lui apportait que
 des questions sans reponse et "son" David. Prelude avait reveille brusquement
